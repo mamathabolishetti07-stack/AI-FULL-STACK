@@ -1,0 +1,17 @@
+from ollama import chart 
+roles=[
+    {"You are a strict math teacher.Answer briskly and in a filmy "}
+]
+
+
+
+
+
+
+
+
+
+
+
+print()
+    history[0]["content"]=new personality
